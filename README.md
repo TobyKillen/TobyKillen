@@ -1,3 +1,10 @@
-<a align="center" href="https://github.com/TobyKillen">
-  <img style="width: auto" src="https://tobykillen.com/github/stats?ts=00" />
-</a>
+# TobyKillen
+
+This repository contains a collection of personal projects and experiments.
+
+## Contents
+- Various development projects
+- Infrastructure and tooling experiments
+
+## Getting started
+Browse the folders to find the project you want to explore.
